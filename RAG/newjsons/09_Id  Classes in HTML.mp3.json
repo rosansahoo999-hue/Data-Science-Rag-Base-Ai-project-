@@ -1,0 +1,348 @@
+{
+    "chunks": [
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 0.0,
+            "end": 14.18,
+            "text": " I will tell you about the idea and classes.  The concept of the idea and classes is very confusing.  In fact, when I was learning HTML,  I was very confused in my early days in the idea and classes.  The idea means unique identifier."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 14.18,
+            "end": 28.580000000000002,
+            "text": " If you give an idea to an element,  you will not give the idea to the other element.  But the class means that if you want to give multiple elements,  you will give it multiple classes.  For example, you can give a div to a red name class,"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 28.580000000000002,
+            "end": 38.86,
+            "text": " and a form.  You can give an article tag from the same page,  and a header tag from the same page.  You can give this video a like.  Because we will go to the computer screen"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 38.86,
+            "end": 59.86,
+            "text": " and we will see very closely these things.  Let's roll the intro.  Guys, I am back.  If you have not access the development course  and click on the playlist,"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 59.86,
+            "end": 69.86,
+            "text": " you can click on the bookmark and save it.  And the source code is also on the top floor.  Now, I will make a folder in the folder  and the video number 9 is also on the top floor.  I will make a folder in the folder of the video."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 69.86,
+            "end": 79.86,
+            "text": " I will make a folder in the video 9.  I will make a folder in the video 9.  After making a folder, I will try to make a partnership.  I will open the open with code.  You can see that this is opened in the BS code."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 79.86,
+            "end": 89.86,
+            "text": " I will write the index.html,  I will enter the exclamation mark.  And with that,  I will tell you the ID and classes.  You will only have a half-card."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 89.86,
+            "end": 99.86,
+            "text": " If not, you will only have an ID.  Now, do not write in the comment section.  Whenever you go to any place,  you have to show your ID.  In some cases, you have to prove your identity."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 99.86,
+            "end": 109.86,
+            "text": " I am here.  Now, if you want to understand the ID and classes  about the restaurant,  then the ID is your identity.  Okay?"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 109.86,
+            "end": 119.86,
+            "text": " So, listen to the story here.  This is John.  And this is Harry.  These two are very good friends.  They are very good friends."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 119.86,
+            "end": 129.86,
+            "text": " They do not share their lunch.  And they are very good friends.  Okay?  They do not have food.  And this is the other friends."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 129.86,
+            "end": 139.86,
+            "text": " Now, you can see that this is John.  Harry is his ID.  So, this is my ID.  And John's ID is something.  This is John's ID."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 139.86,
+            "end": 149.86,
+            "text": " Okay?  John's ID is number.  And this is my ID.  We both cannot be the same.  Or, if you believe that"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 149.86,
+            "end": 159.86,
+            "text": " our friend is my friend.  Tanya and John's friend are the same.  Okay?  So, their ID is also different.  Okay?"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 159.86,
+            "end": 169.86,
+            "text": " And this is the ID of the ID of John.  This is the ID of the ID of John.  Now, this ID of every person is different.  So, John and Harry are friends.  John's ID is the ID of the ID of John's friend."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 169.86,
+            "end": 179.86,
+            "text": " This is the ID of the ID of John's friend.  There are no same numbers in these four.  If I tell you the ID of John's ID,  I will say,  I have said,"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 179.86,
+            "end": 191.86,
+            "text": " John's ID is the ID of John's 5th.  And if I say,  John's ID is the ID of John's 6th.  And if I say,  John's ID is the ID of John's 6th."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 191.86,
+            "end": 201.86,
+            "text": " So, you will say,  I identify the ID of John's ID.  If I say,  John has 4.  If I say,"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 201.86,
+            "end": 213.82000000000002,
+            "text": " John has 5.  If I say,  John has 8 very few B \u0412choly.  So,  So,"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 213.82000000000002,
+            "end": 222.82000000000002,
+            "text": " John and Harry went to the place.  The paper used to be somewhere in.  We will explore the options.  The top one is a\u8aa3\u6a8e.  The last one is a paper,"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 222.82000000000002,
+            "end": 267.58000000000004,
+            "text": " and I showed you the name,  This is a tuition class, where there are 10 A in the class.  So, it is more than 1 class.  It is a class 10 and it is a class 10 A.  And along with that, it is called as the headi red color t-shirt."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 267.58000000000004,
+            "end": 277.58000000000004,
+            "text": " So, it is a class red V.  So, it means that the class of reading is not going to be a class.  It means that it is going to be classified in this class.  Now, let's see here.  Let this John headi start."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 277.58000000000004,
+            "end": 287.58,
+            "text": " Okay, let's delete it.  Let's delete it and zoom out.  Okay, it doesn't mean that.  It is going to be a text, I will explain it in detail.  I know that I have made a div."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 287.58,
+            "end": 302.58,
+            "text": " And I have given it a class red.  And I have made a span and I have given it a class red.  All I have given it is that I can give the same class as the other elements.  But if I want to add an ID to some elements.  I know that I have given it the first div."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 302.58,
+            "end": 318.58,
+            "text": " I can also put anything in the ID.  So, I don't think that this is the right card, this is the element.  If it is the other div, then you can't put it in.  Then I have to add something in the ID.  I will write the second one here."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 318.58,
+            "end": 337.58,
+            "text": " I have learnt this idea from the class.  I learnt it from the class.  I have learnt it from the class.  I have learnt it from the class.  I have learnt it from the class."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 337.58,
+            "end": 355.58,
+            "text": " I can write it as a read class.  I can write it as a read class.  If we give an element to multiple, we will write it as a space.  If I want to write multiple classes in this element,  I will write a read."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 355.58,
+            "end": 368.58,
+            "text": " I will write it as a space.  I can write multiple classes in this way.  I can give the same element as a multiple idea.  I don't know if you have heard about multiple classes.  But there are no other classes."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 368.58,
+            "end": 383.58,
+            "text": " There is only one person in the class.  And there is only one person in the class.  There is only one person in the class.  There is only one person in the class.  But the class is the class."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 383.58,
+            "end": 414.58,
+            "text": " If you write a read class,  you can write a read class.  For example, we will start to have elements among them because  it is useful for us.  I am writing it as a part of another class."
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 414.58,
+            "end": 436.58,
+            "text": " At certain areas, I am writing an alien language.  I will click on the point and now I will show you the preview of the first and second  I will show you one thing  I am doing a class in CSS and then I will do a dot rate class  and hash first div means that the dot is class"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 436.58,
+            "end": 458.58,
+            "text": " If I say that the first div is background color red  then the color of the background color red will be selected in CSS  and now I want to confuse you in this way  but we will do all this  I will do a dot rate and then I will write background color red"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 458.58,
+            "end": 472.58,
+            "text": " and then I will do a dot bgl in the dot bgl  I have to write dot 0  I mean a class bgl  I will do a background color  and then I will do a dot rate"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 472.58,
+            "end": 488.58,
+            "text": " I mean the color of the background color red will be selected in CSS  So you can use this way in CSS  I hope you guys understood  Now one thing to note here is that  the class of the ID and the attributes are from the element"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 488.58,
+            "end": 502.58,
+            "text": " the ID and the class of the attribute are from the element  and the elements are from the attributes  Now the ID is another prey  I will tell you what is the other prey of the ID  If you write in Wikipedia and go to the jowl"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 502.58,
+            "end": 512.5799999999999,
+            "text": " then the Wikipedia page is on the page  I will go to another page  You can see that when you go to any page  then what you can do is  you can take the particular link of the page"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 512.5799999999999,
+            "end": 522.5799999999999,
+            "text": " I will show you how it is  I will go to another page  I scroll down  and I will inspect the ID  and I will see its ID"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 522.58,
+            "end": 532.58,
+            "text": " I will copy it  and if I add the hashtag  and the ID  I will enter it  and I will take the ID"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 532.58,
+            "end": 542.58,
+            "text": " If I add it in the incognito  I will scroll it and show the particular ID  I will scroll it  and show it instead of showing it  I will scroll it"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 542.58,
+            "end": 554.58,
+            "text": " because I want to take this ID  so even in the linking, it is the ID  You can also generate links  and then you can add the hashtag  and if the link is open"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 554.58,
+            "end": 564.58,
+            "text": " then you will focus on the same ID  like in this case  You can see that I am entering  I think I have made an ID  but you got the point"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 564.58,
+            "end": 574.58,
+            "text": " You got the point  I will enter it  and you can see that I have gone down  I will go to the incognito tab  and then I will scroll it"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 574.58,
+            "end": 584.58,
+            "text": " and then I will open the new tab  and I will scroll it  and then I will scroll it  and then I will go to the ID  I hope you guys understood the idea"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 584.58,
+            "end": 594.58,
+            "text": " like the idea of class  like a person's property  like red  or whatever class you want  you can also add multiple classes"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 594.58,
+            "end": 604.58,
+            "text": " you can also add red  and then you can add red  and then you can add multiple elements  you can also add red class  and you can also add red class"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 604.58,
+            "end": 614.58,
+            "text": " and you can also add red class  I hope you guys understood  So now in this video  I was reading captions  and I was reading the whole caption"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 614.58,
+            "end": 624.58,
+            "text": " so I said I will go to the village  and I will go to the village  and I said I will go to the village  and I will go to the village  So at the same time"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 624.58,
+            "end": 634.58,
+            "text": " to access the playlist  please like, share and comment  in the hashtag, sign up  Thank you so much for watching this video  and I will see you next time"
+        },
+        {
+            "number": "09",
+            "title": "Id  Classes in HTML",
+            "start": 636.58,
+            "end": 638.58,
+            "text": " Bye"
+        }
+    ],
+    "text": " I will tell you about the idea and classes. The concept of the idea and classes is very confusing. In fact, when I was learning HTML, I was very confused in my early days in the idea and classes. The idea means unique identifier. If you give an idea to an element, you will not give the idea to the other element. But the class means that if you want to give multiple elements, you will give it multiple classes. For example, you can give a div to a red name class, and a form. You can give an article tag from the same page, and a header tag from the same page. You can give this video a like. Because we will go to the computer screen and we will see very closely these things. Let's roll the intro. Guys, I am back. If you have not access the development course and click on the playlist, you can click on the bookmark and save it. And the source code is also on the top floor. Now, I will make a folder in the folder and the video number 9 is also on the top floor. I will make a folder in the folder of the video. I will make a folder in the video 9. I will make a folder in the video 9. After making a folder, I will try to make a partnership. I will open the open with code. You can see that this is opened in the BS code. I will write the index.html, I will enter the exclamation mark. And with that, I will tell you the ID and classes. You will only have a half-card. If not, you will only have an ID. Now, do not write in the comment section. Whenever you go to any place, you have to show your ID. In some cases, you have to prove your identity. I am here. Now, if you want to understand the ID and classes about the restaurant, then the ID is your identity. Okay? So, listen to the story here. This is John. And this is Harry. These two are very good friends. They are very good friends. They do not share their lunch. And they are very good friends. Okay? They do not have food. And this is the other friends. Now, you can see that this is John. Harry is his ID. So, this is my ID. And John's ID is something. This is John's ID. Okay? John's ID is number. And this is my ID. We both cannot be the same. Or, if you believe that our friend is my friend. Tanya and John's friend are the same. Okay? So, their ID is also different. Okay? And this is the ID of the ID of John. This is the ID of the ID of John. Now, this ID of every person is different. So, John and Harry are friends. John's ID is the ID of the ID of John's friend. This is the ID of the ID of John's friend. There are no same numbers in these four. If I tell you the ID of John's ID, I will say, I have said, John's ID is the ID of John's 5th. And if I say, John's ID is the ID of John's 6th. And if I say, John's ID is the ID of John's 6th. So, you will say, I identify the ID of John's ID. If I say, John has 4. If I say, John has 5. If I say, John has 8 very few B \u0412choly. So, So, John and Harry went to the place. The paper used to be somewhere in. We will explore the options. The top one is a\u8aa3\u6a8e. The last one is a paper, and I showed you the name, This is a tuition class, where there are 10 A in the class. So, it is more than 1 class. It is a class 10 and it is a class 10 A. And along with that, it is called as the headi red color t-shirt. So, it is a class red V. So, it means that the class of reading is not going to be a class. It means that it is going to be classified in this class. Now, let's see here. Let this John headi start. Okay, let's delete it. Let's delete it and zoom out. Okay, it doesn't mean that. It is going to be a text, I will explain it in detail. I know that I have made a div. And I have given it a class red. And I have made a span and I have given it a class red. All I have given it is that I can give the same class as the other elements. But if I want to add an ID to some elements. I know that I have given it the first div. I can also put anything in the ID. So, I don't think that this is the right card, this is the element. If it is the other div, then you can't put it in. Then I have to add something in the ID. I will write the second one here. I have learnt this idea from the class. I learnt it from the class. I have learnt it from the class. I have learnt it from the class. I have learnt it from the class. I can write it as a read class. I can write it as a read class. If we give an element to multiple, we will write it as a space. If I want to write multiple classes in this element, I will write a read. I will write it as a space. I can write multiple classes in this way. I can give the same element as a multiple idea. I don't know if you have heard about multiple classes. But there are no other classes. There is only one person in the class. And there is only one person in the class. There is only one person in the class. There is only one person in the class. But the class is the class. If you write a read class, you can write a read class. For example, we will start to have elements among them because it is useful for us. I am writing it as a part of another class. At certain areas, I am writing an alien language. I will click on the point and now I will show you the preview of the first and second I will show you one thing I am doing a class in CSS and then I will do a dot rate class and hash first div means that the dot is class If I say that the first div is background color red then the color of the background color red will be selected in CSS and now I want to confuse you in this way but we will do all this I will do a dot rate and then I will write background color red and then I will do a dot bgl in the dot bgl I have to write dot 0 I mean a class bgl I will do a background color and then I will do a dot rate I mean the color of the background color red will be selected in CSS So you can use this way in CSS I hope you guys understood Now one thing to note here is that the class of the ID and the attributes are from the element the ID and the class of the attribute are from the element and the elements are from the attributes Now the ID is another prey I will tell you what is the other prey of the ID If you write in Wikipedia and go to the jowl then the Wikipedia page is on the page I will go to another page You can see that when you go to any page then what you can do is you can take the particular link of the page I will show you how it is I will go to another page I scroll down and I will inspect the ID and I will see its ID I will copy it and if I add the hashtag and the ID I will enter it and I will take the ID If I add it in the incognito I will scroll it and show the particular ID I will scroll it and show it instead of showing it I will scroll it because I want to take this ID so even in the linking, it is the ID You can also generate links and then you can add the hashtag and if the link is open then you will focus on the same ID like in this case You can see that I am entering I think I have made an ID but you got the point You got the point I will enter it and you can see that I have gone down I will go to the incognito tab and then I will scroll it and then I will open the new tab and I will scroll it and then I will scroll it and then I will go to the ID I hope you guys understood the idea like the idea of class like a person's property like red or whatever class you want you can also add multiple classes you can also add red and then you can add red and then you can add multiple elements you can also add red class and you can also add red class and you can also add red class I hope you guys understood So now in this video I was reading captions and I was reading the whole caption so I said I will go to the village and I will go to the village and I said I will go to the village and I will go to the village So at the same time to access the playlist please like, share and comment in the hashtag, sign up Thank you so much for watching this video and I will see you next time Bye"
+}

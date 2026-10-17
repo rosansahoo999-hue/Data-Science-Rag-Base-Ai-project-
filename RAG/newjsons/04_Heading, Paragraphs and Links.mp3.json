@@ -1,0 +1,271 @@
+{
+    "chunks": [
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 0.0,
+            "end": 14.08,
+            "text": " In today's video, I will tell you about the settings and paragraphs  I will tell you about the anchor text  If you have found this course awesome, then like this video  Please like and share this video with your friends  In this video, we will make a small project"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 14.08,
+            "end": 26.44,
+            "text": " Which will be a bookmark website  This bookmark will help you to get all your favorite websites  And you will be able to use it in actual use  So let's start quickly  In the comment section, click the SIGMA BATCH OP"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 26.44,
+            "end": 53.0,
+            "text": " Let's roll the intro  So guys, as you can see, I have already made my computer screen  And if you haven't even done the playlist access yet, then you can access it  The other thing I want to tell you guys is that you will go to the GitHub.com slash code  And you will get the Github repo of the SIGMA webda course"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 53.0,
+            "end": 66.0,
+            "text": " I have made all the other videos of this folder  And I have made a lot of other folders of this folder  So you will get access from the source code  You will get the link in the description  And I will put the link in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 66.0,
+            "end": 82.0,
+            "text": " Now we will make a very basic website today  But it will be very important for us  Because it will be our first useful website  So I will not take much time to make a new folder in this folder  And I will keep the video for this because it is our fourth video"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 82.0,
+            "end": 100.0,
+            "text": " So I will make this from the video for the first time  I will click on the open with code to open the folder in our VS code  After doing this, I will do the same thing that we always do  Index.html, Main.css, Style.css and with that, script.js  We usually make these three files"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 100.0,
+            "end": 112.0,
+            "text": " If I write CSS, I will write here and write script  But for now, I will write some things here  I will write in the document  My bookmarks  I will write the code in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 112.0,
+            "end": 122.0,
+            "text": " So you will see all the titles  I will write here  What is H1?  You can write it in the web page  We have talked about basic structure"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 122.0,
+            "end": 133.0,
+            "text": " We have talked about the HTML page  HTML is equal to EN  The value of the attribute of the language is EN  In English, this is the content  This is the search engine"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 133.0,
+            "end": 150.0,
+            "text": " If any of the link of this web page is in the description  You can parse the web page from the search engine  You can also find out that the web page is in English  Here is the header, which is in the metadata, which is title, which is in the description  The link of the CSS is in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 150.0,
+            "end": 164.0,
+            "text": " Body is in the main content  Body is in the tag to write a tag  I will write in the description box  If I write in the description box, I will write in the description box  If I want to live this video"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 164.0,
+            "end": 174.0,
+            "text": " I will click here  Then I will open it  I will show you how my bookmarks are shown  Now, why should I use H1?  I didn't write my bookmark directly"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 174.0,
+            "end": 187.0,
+            "text": " Because I will tell you the browser  This is my first level heading  Now, I want to write in the main bookmarks  I will use H2  I will use H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 187.0,
+            "end": 199.0,
+            "text": " If you have used Microsoft Word, you will know what H1H2 is  If you don't know, I will tell you  H1H2 is your main level heading  And the second level heading  I will use H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 199.0,
+            "end": 211.0,
+            "text": " I will use main bookmarks  I will use the second bookmarks  I will use Alt Shift  I will use Alt Shift  I will use the screen cast mode"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 211.0,
+            "end": 223.0,
+            "text": " I will use Alt Shift  I will use Alt Shift  This is the shortcut  I will use Alt if you press the shortcut  When you click on Alt, it will be a cursor"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 223.0,
+            "end": 233.0,
+            "text": " I will click on Alt  But, you can click Alt  If I click on Alt, I will come back  I will come back  I want to do all the books in the code"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 233.0,
+            "end": 243.0,
+            "text": " The bookmarks are in Dash  I will write something  I didn't write it  I will click on Alt  I will click on Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 243.0,
+            "end": 255.0,
+            "text": " I will get multiple cut Sources  I will type whatever I want  I will type whatever I want  I will type whatever I want  I will drop some H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 255.0,
+            "end": 265.0,
+            "text": " I will update it  This is my main heading  This is my H2  I have H6  I will give you a main heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 265.0,
+            "end": 275.0,
+            "text": " Then you will give a second heading  Then you will give a lot of subheadings  And so on  You can give a H6 heading  H6 is more than enough"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 275.0,
+            "end": 285.0,
+            "text": " You will have to use H7 in HTML  You will not have to use H7  You will not have to use H7  You can use H6  Because this is much smaller"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 285.0,
+            "end": 295.0,
+            "text": " After H6 will be smaller  You will have to go smaller  I will type Alt  I will duplicate it  I will click Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 295.0,
+            "end": 321.0,
+            "text": " I will type Alt  This is my shortcut  I will show you the productivity of this video  I have placed two cut Sources  I will use the backspace"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 321.0,
+            "end": 379.0,
+            "text": " For this nach  I will click His find  You can see the H4, H4, H5, H6, etc.  The H6 is more than enough.  The H3 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 379.0,
+            "end": 489.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 489.0,
+            "end": 579.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 579.0,
+            "end": 649.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 649.0,
+            "end": 699.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 699.0,
+            "end": 749.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 749.0,
+            "end": 799.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H2 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 799.0,
+            "end": 869.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 869.0,
+            "end": 919.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 919.0,
+            "end": 969.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 969.0,
+            "end": 1017.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1017.0,
+            "end": 1067.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1067.0,
+            "end": 1117.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1117.0,
+            "end": 1151.0,
+            "text": " The H4 is more than enough.  The H4 is more than enough.  The H4 is more than enough.  Thank you for watching this video."
+        }
+    ],
+    "text": " In today's video, I will tell you about the settings and paragraphs I will tell you about the anchor text If you have found this course awesome, then like this video Please like and share this video with your friends In this video, we will make a small project Which will be a bookmark website This bookmark will help you to get all your favorite websites And you will be able to use it in actual use So let's start quickly In the comment section, click the SIGMA BATCH OP Let's roll the intro So guys, as you can see, I have already made my computer screen And if you haven't even done the playlist access yet, then you can access it The other thing I want to tell you guys is that you will go to the GitHub.com slash code And you will get the Github repo of the SIGMA webda course I have made all the other videos of this folder And I have made a lot of other folders of this folder So you will get access from the source code You will get the link in the description And I will put the link in the description Now we will make a very basic website today But it will be very important for us Because it will be our first useful website So I will not take much time to make a new folder in this folder And I will keep the video for this because it is our fourth video So I will make this from the video for the first time I will click on the open with code to open the folder in our VS code After doing this, I will do the same thing that we always do Index.html, Main.css, Style.css and with that, script.js We usually make these three files If I write CSS, I will write here and write script But for now, I will write some things here I will write in the document My bookmarks I will write the code in the description So you will see all the titles I will write here What is H1? You can write it in the web page We have talked about basic structure We have talked about the HTML page HTML is equal to EN The value of the attribute of the language is EN In English, this is the content This is the search engine If any of the link of this web page is in the description You can parse the web page from the search engine You can also find out that the web page is in English Here is the header, which is in the metadata, which is title, which is in the description The link of the CSS is in the description Body is in the main content Body is in the tag to write a tag I will write in the description box If I write in the description box, I will write in the description box If I want to live this video I will click here Then I will open it I will show you how my bookmarks are shown Now, why should I use H1? I didn't write my bookmark directly Because I will tell you the browser This is my first level heading Now, I want to write in the main bookmarks I will use H2 I will use H2 If you have used Microsoft Word, you will know what H1H2 is If you don't know, I will tell you H1H2 is your main level heading And the second level heading I will use H2 I will use main bookmarks I will use the second bookmarks I will use Alt Shift I will use Alt Shift I will use the screen cast mode I will use Alt Shift I will use Alt Shift This is the shortcut I will use Alt if you press the shortcut When you click on Alt, it will be a cursor I will click on Alt But, you can click Alt If I click on Alt, I will come back I will come back I want to do all the books in the code The bookmarks are in Dash I will write something I didn't write it I will click on Alt I will click on Alt I will get multiple cut Sources I will type whatever I want I will type whatever I want I will type whatever I want I will drop some H2 I will update it This is my main heading This is my H2 I have H6 I will give you a main heading Then you will give a second heading Then you will give a lot of subheadings And so on You can give a H6 heading H6 is more than enough You will have to use H7 in HTML You will not have to use H7 You will not have to use H7 You can use H6 Because this is much smaller After H6 will be smaller You will have to go smaller I will type Alt I will duplicate it I will click Alt I will type Alt This is my shortcut I will show you the productivity of this video I have placed two cut Sources I will use the backspace For this nach I will click His find You can see the H4, H4, H5, H6, etc. The H6 is more than enough. The H3 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H2 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. Thank you for watching this video."
+}

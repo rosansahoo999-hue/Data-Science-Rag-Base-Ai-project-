@@ -1,0 +1,383 @@
+{
+    "chunks": [
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 0.0,
+            "end": 20.12,
+            "text": " The concept of illine and block elements is very important in the test.  The illine elements are the ones that are used only for the width of the screen.  This could be set through CSS.  If you are enjoying this video, then please like this video.  So let's go to the computer screen and watch the illine and block elements closely."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 20.12,
+            "end": 44.0,
+            "text": " There are many good examples of that.  Let's roll the intro.  So guys, it's time for us to watch the illine and block elements.  If you haven't done the playlist and haven't done the code access yet, then do the same.  Because as the videos are being made, the code is the one that is added to the playlist."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 44.0,
+            "end": 65.0,
+            "text": " Now I will do the quick thing that I always do.  I will make a fullter with the name of Video 8.  So I have already made 7 videos here.  I will make a video 8 and open it in VS code.  After opening the VS code, I will make an index or digital decimals and tell you about the index of block elements."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 65.0,
+            "end": 82.0,
+            "text": " I can also type the explanation in the enter and mark.  But I will not do it because I can do it when I do the y-type.  I will write here the illine and block elements.  I told you about this but I will put more evidence on this.  What are the illine elements and why I want to use them."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 83.0,
+            "end": 102.0,
+            "text": " The illine elements are the elements that are so important that you don't get such important elements.  They say that we all want to use them.  Some people just get a felt about them and they just get to know what is the difference between them.  I will explain the difference.  I will do some cheating."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 102.0,
+            "end": 117.0,
+            "text": " What is the cheating? I will add CSS.  I am not reading the CSS. Why are you adding CSS?  I am just adding CSS.  I will do one thing here that I will write here P.  I will enter and write here."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 117.0,
+            "end": 129.0,
+            "text": " Let's say Hey I am a Para.  I will say P to background color.  Let us say blue.  I will give you a good example.  You guys have seen the color choice."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 129.0,
+            "end": 143.0,
+            "text": " I have given you a color.  I will write an anchor tag in it.  HRF is equal to gold.com.  I will write it in the form of a string.  I will write a string of a string."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 143.0,
+            "end": 157.0,
+            "text": " I will write here Google.  I will give you a background color.  I will give you a background color red.  I will do it in red.  I will choose any color in this way."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 157.0,
+            "end": 170.0,
+            "text": " I will tell you the new color in the background.  If you already know the new color, then comment.  I will not go.  I will write here.  You can see here I have given you an anchor tag."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 170.0,
+            "end": 180.0,
+            "text": " I have similar it for a few more minutes.  I will edit it.  I have added red and orange.  I will do this in blue.  I will click on the difference."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 180.0,
+            "end": 191.0,
+            "text": " I will click on the difference.  The color of the background color is completely white.  But I will only get this element.  Why is that?  This is the block element."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 191.0,
+            "end": 204.0,
+            "text": " The anchor tag is the inline element.  The block elements are the same.  Block elements are completely white.  The next content is the bottom.  If we take the whole white, the next content will be the bottom."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 204.0,
+            "end": 216.0,
+            "text": " If I talk about Dev, what is that?  A block element.  I am a block element.  And there is a span that is like a div.  But it is an inline element."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 216.0,
+            "end": 225.0,
+            "text": " I am span and I am in line.  If I talk about the anchor tag.  I will click yes.  He is in line.  You can see here."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 225.0,
+            "end": 237.0,
+            "text": " I will show you the code.  If I write it in the new line.  By the way, I will tell you how many spaces there are.  This content is not added in my content.  Because HTML is not included in the same space."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 237.0,
+            "end": 249.0,
+            "text": " If you want to give space,  you can write the amp and NBSP.  I will tell you about it.  But now I want to show you how it works.  I have written this in the first paragraph."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 249.0,
+            "end": 255.0,
+            "text": " What is the first paragraph?  A block element.  So this is the whole white.  The next content will be below.  This is what I have written."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 255.0,
+            "end": 266.0,
+            "text": " So this is the only white that is needed.  And this is the only white.  But the next content that I was saying is that I want white.  So this is not the end line.  Because I want white."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 266.0,
+            "end": 277.0,
+            "text": " So this is the end line.  I cannot write this line.  So how can I write this?  I will show you the background color.  I will show you the background color."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 277.0,
+            "end": 292.0,
+            "text": " I will give this color to the yellow.  I will give this color to the background color.  You can see this yellow is the white.  So with this, I can put this in the same line.  Because this is the end line."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 292.0,
+            "end": 305.0,
+            "text": " So the end line is not the same.  And the end line is needed.  And the end line is given to the end line.  Because you can see that the end line is given to the end line.  Now, what will be the end line that will be the end line?"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 305.0,
+            "end": 314.0,
+            "text": " Will it be a paragraph track block?  Will it be a thing?  The answer is no.  You can change it.  You can set any particular element of the display property."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 314.0,
+            "end": 325.0,
+            "text": " And if you set the display property.  So it is not necessary that the end line will be the block.  It will be the end line of the block.  It can be done in the end line.  I will show you the end line."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 325.0,
+            "end": 338.0,
+            "text": " Now I want to point out quickly that the video was not a video 7.  But I have put it in the folder of video 6.  I will do video 7.  And now the video 8.  Now we are doing video 8."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 338.0,
+            "end": 349.0,
+            "text": " And the video 7 is not in anything.  I will give it a quick structure.  Don't take your attention.  I hope that you are getting a lot of learnings.  Many people have pointed out this."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 349.0,
+            "end": 356.0,
+            "text": " I will fix it.  But I think that doesn't affect us in any way.  Because you are understanding.  And now I will give you the folder of the notes.  Sorry, the source code."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 356.0,
+            "end": 366.0,
+            "text": " You will get the same.  With that you can download the code with the code.comp.  If you want to download the notes, then download the notes.  And you will get a complimentary source.  But I am explaining everything to you."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 366.0,
+            "end": 374.0,
+            "text": " Step by step, don't take your attention.  So this is our line of block elements.  Now which elements are there?  Which ones are there?  Which ones are there?"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 374.0,
+            "end": 384.0,
+            "text": " How will you know?  You will know how Dev is the block and span of the line.  So I will come to practice.  But I have made a list of the components of the line of block elements.  Here the list of block elements is."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 384.0,
+            "end": 393.0,
+            "text": " The most commonly used elements are used.  It is written before them.  The one that is used more often.  Then you will get a paragraph.  And you will get such elements."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 393.0,
+            "end": 404.0,
+            "text": " Which may not be used.  Maybe you don't know about them.  But you will get to know about them.  And if you don't know all the elements, then you will get some self learning.  Definitely many elements."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 404.0,
+            "end": 416.0,
+            "text": " Which you will get in a lot of less use.  But the most commonly used ones, you will see.  If you have made the entire list of the line elements.  So you need to refer to this list.  I have made a file called list.txt."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 416.0,
+            "end": 430.0,
+            "text": " So you need to refer to this file.  The code of the same thing is not a false space.  You should have told that it is not a false space.  In fact, if you write it right, then your document will be a format.  Write a code."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 430.0,
+            "end": 444.0,
+            "text": " It is written in the time of the code.  When you open your account, you will see the laptop.  And if you get a code, then you will get a good code.  If you write this code, then you will get a good code.  You will see that you have made a good name."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 444.0,
+            "end": 454.0,
+            "text": " So you will get a good code.  So you will get a good code.  So you will get a good code.  So you will get a good code.  So you will get a good code."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 454.0,
+            "end": 465.0,
+            "text": " Now, let me give you a quiz from the comments.  What is the quiz?  Without using BRTAC right of article,  Align form, asking for name, city.  And one more thing I have added here."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 465.0,
+            "end": 476.0,
+            "text": " I will show you.  Now, let me give you a name, city and pin code of a user.  You should write a form because we read the previous video about the form.  You should write the form.  How you will be able to make it?"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 476.0,
+            "end": 485.0,
+            "text": " You should know.  And I want to answer all of these quiz in the comment section.  All of them.  This is the first quiz.  I want you to make two interactions."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 485.0,
+            "end": 497.0,
+            "text": " Write in the comment section.  You should definitely write your code.  And tell me what element you used.  What is the concept of block element?  What is the concept of block element?"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 497.0,
+            "end": 507.0,
+            "text": " I can tell you in my explanation in the comment section.  In the coming videos, we will see that CSS used.  In line flex.  In line block.  This way, you can set the display capacity."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 507.0,
+            "end": 518.0,
+            "text": " And what is the difference in it?  So, we will see in the coming videos.  You guys want to know that if you are following this course,  you will be able to make a big web developer.  And you guys are thinking that in the long term,"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 518.0,
+            "end": 529.0,
+            "text": " and our real style is going very long.  I want to make big and friendly courses.  And I want to tell you all that people in life  will tell you that we are doing this.  We are doing this."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 529.0,
+            "end": 536.0,
+            "text": " We are doing this.  We are doing this.  We are doing this.  Do you know what is the thing that you will never say to people?  This is that you are blessed."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 536.0,
+            "end": 545.0,
+            "text": " No one will say that you are in the development of the word  called Sigma and Sigma.  You have won a lot of time.  You will see in the coming videos.  You will never say that you are blessed."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 545.0,
+            "end": 554.0,
+            "text": " People will say that I am going to watch a movie.  I am going to watch this.  You will not say that you are blessed to find this course.  And you are watching the whole thing.  You are blessed to find this course."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 554.0,
+            "end": 565.0,
+            "text": " You are blessed to watch the whole thing.  You are blessed to watch the entire thing.  You are not distracted by the whole thing.  And in the coming time, when you look back,  you have realized what the thing I have done."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 565.0,
+            "end": 575.0,
+            "text": " I have said myself that I have done so many blessings.  I have read my IT time.  I have found out.  Everything changes.  This is the thing that you will never say."
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 575.0,
+            "end": 590.5,
+            "text": " I am telling you that the success of all the people who have sacrificed their lives  There is no one to sacrifice anything  There is no one to sacrifice anything  And there is no one to sacrifice anything  You are doing your work right now"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 590.5,
+            "end": 599.0,
+            "text": " You are thinking that I am doing this in my own way  Everything is going to be done  I should have got this advice from 4-510  Which I didn't get  But I don't have any problem"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 599.0,
+            "end": 608.0,
+            "text": " Let's continue  I will do one thing here  I will add a color in the span  I will add a span and background color here  I will add a blue-wild color"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 608.0,
+            "end": 617.0,
+            "text": " I will add a little less  I will click and hover here  And you can see that  This is how I highlighted this  So, in this video"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 617.0,
+            "end": 626.0,
+            "text": " I hope you have understood that  I will get a chance to watch this video  Please like and access the playlist  Please like and subscribe  Please give me a big like"
+        },
+        {
+            "number": "08",
+            "title": "Inline  Block Elements in HTML",
+            "start": 626.0,
+            "end": 630.0,
+            "text": " Thank you so much for watching this video  And I will see you next time"
+        }
+    ],
+    "text": " The concept of illine and block elements is very important in the test. The illine elements are the ones that are used only for the width of the screen. This could be set through CSS. If you are enjoying this video, then please like this video. So let's go to the computer screen and watch the illine and block elements closely. There are many good examples of that. Let's roll the intro. So guys, it's time for us to watch the illine and block elements. If you haven't done the playlist and haven't done the code access yet, then do the same. Because as the videos are being made, the code is the one that is added to the playlist. Now I will do the quick thing that I always do. I will make a fullter with the name of Video 8. So I have already made 7 videos here. I will make a video 8 and open it in VS code. After opening the VS code, I will make an index or digital decimals and tell you about the index of block elements. I can also type the explanation in the enter and mark. But I will not do it because I can do it when I do the y-type. I will write here the illine and block elements. I told you about this but I will put more evidence on this. What are the illine elements and why I want to use them. The illine elements are the elements that are so important that you don't get such important elements. They say that we all want to use them. Some people just get a felt about them and they just get to know what is the difference between them. I will explain the difference. I will do some cheating. What is the cheating? I will add CSS. I am not reading the CSS. Why are you adding CSS? I am just adding CSS. I will do one thing here that I will write here P. I will enter and write here. Let's say Hey I am a Para. I will say P to background color. Let us say blue. I will give you a good example. You guys have seen the color choice. I have given you a color. I will write an anchor tag in it. HRF is equal to gold.com. I will write it in the form of a string. I will write a string of a string. I will write here Google. I will give you a background color. I will give you a background color red. I will do it in red. I will choose any color in this way. I will tell you the new color in the background. If you already know the new color, then comment. I will not go. I will write here. You can see here I have given you an anchor tag. I have similar it for a few more minutes. I will edit it. I have added red and orange. I will do this in blue. I will click on the difference. I will click on the difference. The color of the background color is completely white. But I will only get this element. Why is that? This is the block element. The anchor tag is the inline element. The block elements are the same. Block elements are completely white. The next content is the bottom. If we take the whole white, the next content will be the bottom. If I talk about Dev, what is that? A block element. I am a block element. And there is a span that is like a div. But it is an inline element. I am span and I am in line. If I talk about the anchor tag. I will click yes. He is in line. You can see here. I will show you the code. If I write it in the new line. By the way, I will tell you how many spaces there are. This content is not added in my content. Because HTML is not included in the same space. If you want to give space, you can write the amp and NBSP. I will tell you about it. But now I want to show you how it works. I have written this in the first paragraph. What is the first paragraph? A block element. So this is the whole white. The next content will be below. This is what I have written. So this is the only white that is needed. And this is the only white. But the next content that I was saying is that I want white. So this is not the end line. Because I want white. So this is the end line. I cannot write this line. So how can I write this? I will show you the background color. I will show you the background color. I will give this color to the yellow. I will give this color to the background color. You can see this yellow is the white. So with this, I can put this in the same line. Because this is the end line. So the end line is not the same. And the end line is needed. And the end line is given to the end line. Because you can see that the end line is given to the end line. Now, what will be the end line that will be the end line? Will it be a paragraph track block? Will it be a thing? The answer is no. You can change it. You can set any particular element of the display property. And if you set the display property. So it is not necessary that the end line will be the block. It will be the end line of the block. It can be done in the end line. I will show you the end line. Now I want to point out quickly that the video was not a video 7. But I have put it in the folder of video 6. I will do video 7. And now the video 8. Now we are doing video 8. And the video 7 is not in anything. I will give it a quick structure. Don't take your attention. I hope that you are getting a lot of learnings. Many people have pointed out this. I will fix it. But I think that doesn't affect us in any way. Because you are understanding. And now I will give you the folder of the notes. Sorry, the source code. You will get the same. With that you can download the code with the code.comp. If you want to download the notes, then download the notes. And you will get a complimentary source. But I am explaining everything to you. Step by step, don't take your attention. So this is our line of block elements. Now which elements are there? Which ones are there? Which ones are there? How will you know? You will know how Dev is the block and span of the line. So I will come to practice. But I have made a list of the components of the line of block elements. Here the list of block elements is. The most commonly used elements are used. It is written before them. The one that is used more often. Then you will get a paragraph. And you will get such elements. Which may not be used. Maybe you don't know about them. But you will get to know about them. And if you don't know all the elements, then you will get some self learning. Definitely many elements. Which you will get in a lot of less use. But the most commonly used ones, you will see. If you have made the entire list of the line elements. So you need to refer to this list. I have made a file called list.txt. So you need to refer to this file. The code of the same thing is not a false space. You should have told that it is not a false space. In fact, if you write it right, then your document will be a format. Write a code. It is written in the time of the code. When you open your account, you will see the laptop. And if you get a code, then you will get a good code. If you write this code, then you will get a good code. You will see that you have made a good name. So you will get a good code. So you will get a good code. So you will get a good code. So you will get a good code. So you will get a good code. Now, let me give you a quiz from the comments. What is the quiz? Without using BRTAC right of article, Align form, asking for name, city. And one more thing I have added here. I will show you. Now, let me give you a name, city and pin code of a user. You should write a form because we read the previous video about the form. You should write the form. How you will be able to make it? You should know. And I want to answer all of these quiz in the comment section. All of them. This is the first quiz. I want you to make two interactions. Write in the comment section. You should definitely write your code. And tell me what element you used. What is the concept of block element? What is the concept of block element? I can tell you in my explanation in the comment section. In the coming videos, we will see that CSS used. In line flex. In line block. This way, you can set the display capacity. And what is the difference in it? So, we will see in the coming videos. You guys want to know that if you are following this course, you will be able to make a big web developer. And you guys are thinking that in the long term, and our real style is going very long. I want to make big and friendly courses. And I want to tell you all that people in life will tell you that we are doing this. We are doing this. We are doing this. We are doing this. We are doing this. Do you know what is the thing that you will never say to people? This is that you are blessed. No one will say that you are in the development of the word called Sigma and Sigma. You have won a lot of time. You will see in the coming videos. You will never say that you are blessed. People will say that I am going to watch a movie. I am going to watch this. You will not say that you are blessed to find this course. And you are watching the whole thing. You are blessed to find this course. You are blessed to watch the whole thing. You are blessed to watch the entire thing. You are not distracted by the whole thing. And in the coming time, when you look back, you have realized what the thing I have done. I have said myself that I have done so many blessings. I have read my IT time. I have found out. Everything changes. This is the thing that you will never say. I am telling you that the success of all the people who have sacrificed their lives There is no one to sacrifice anything There is no one to sacrifice anything And there is no one to sacrifice anything You are doing your work right now You are thinking that I am doing this in my own way Everything is going to be done I should have got this advice from 4-510 Which I didn't get But I don't have any problem Let's continue I will do one thing here I will add a color in the span I will add a span and background color here I will add a blue-wild color I will add a little less I will click and hover here And you can see that This is how I highlighted this So, in this video I hope you have understood that I will get a chance to watch this video Please like and access the playlist Please like and subscribe Please give me a big like Thank you so much for watching this video And I will see you next time"
+}
