@@ -1,0 +1,1328 @@
+{
+    "chunks": [
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " In today's video, I will tell you about the settings and paragraphs"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 3.2800000000000002,
+            "end": 6.38,
+            "text": " I will tell you about the anchor text"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 6.38,
+            "end": 9.84,
+            "text": " If you have found this course awesome, then like this video"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 9.84,
+            "end": 12.34,
+            "text": " Please like and share this video with your friends"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 12.34,
+            "end": 14.08,
+            "text": " In this video, we will make a small project"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 14.08,
+            "end": 15.64,
+            "text": " Which will be a bookmark website"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 15.64,
+            "end": 20.16,
+            "text": " This bookmark will help you to get all your favorite websites"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 20.16,
+            "end": 22.080000000000002,
+            "text": " And you will be able to use it in actual use"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 22.080000000000002,
+            "end": 23.48,
+            "text": " So let's start quickly"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 23.48,
+            "end": 26.44,
+            "text": " In the comment section, click the SIGMA BATCH OP"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 26.44,
+            "end": 27.84,
+            "text": " Let's roll the intro"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 30.0,
+            "end": 40.0,
+            "text": " So guys, as you can see, I have already made my computer screen"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 40.0,
+            "end": 44.0,
+            "text": " And if you haven't even done the playlist access yet, then you can access it"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 44.0,
+            "end": 49.0,
+            "text": " The other thing I want to tell you guys is that you will go to the GitHub.com slash code"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 49.0,
+            "end": 53.0,
+            "text": " And you will get the Github repo of the SIGMA webda course"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 53.0,
+            "end": 56.0,
+            "text": " I have made all the other videos of this folder"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " And I have made a lot of other folders of this folder"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 58.0,
+            "end": 61.0,
+            "text": " So you will get access from the source code"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 61.0,
+            "end": 63.0,
+            "text": " You will get the link in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 63.0,
+            "end": 66.0,
+            "text": " And I will put the link in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 66.0,
+            "end": 69.0,
+            "text": " Now we will make a very basic website today"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 69.0,
+            "end": 71.0,
+            "text": " But it will be very important for us"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 71.0,
+            "end": 73.0,
+            "text": " Because it will be our first useful website"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 73.0,
+            "end": 79.0,
+            "text": " So I will not take much time to make a new folder in this folder"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " And I will keep the video for this because it is our fourth video"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " So I will make this from the video for the first time"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 84.0,
+            "end": 88.0,
+            "text": " I will click on the open with code to open the folder in our VS code"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 88.0,
+            "end": 91.0,
+            "text": " After doing this, I will do the same thing that we always do"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 91.0,
+            "end": 98.0,
+            "text": " Index.html, Main.css, Style.css and with that, script.js"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " We usually make these three files"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 100.0,
+            "end": 102.0,
+            "text": " If I write CSS, I will write here and write script"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 102.0,
+            "end": 106.0,
+            "text": " But for now, I will write some things here"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 106.0,
+            "end": 108.0,
+            "text": " I will write in the document"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 108.0,
+            "end": 110.0,
+            "text": " My bookmarks"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 110.0,
+            "end": 112.0,
+            "text": " I will write the code in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 112.0,
+            "end": 114.0,
+            "text": " So you will see all the titles"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 114.0,
+            "end": 116.0,
+            "text": " I will write here"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 116.0,
+            "end": 118.0,
+            "text": " What is H1?"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 118.0,
+            "end": 120.0,
+            "text": " You can write it in the web page"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 120.0,
+            "end": 122.0,
+            "text": " We have talked about basic structure"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 122.0,
+            "end": 124.0,
+            "text": " We have talked about the HTML page"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 124.0,
+            "end": 127.0,
+            "text": " HTML is equal to EN"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 127.0,
+            "end": 129.0,
+            "text": " The value of the attribute of the language is EN"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 129.0,
+            "end": 131.0,
+            "text": " In English, this is the content"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " This is the search engine"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 133.0,
+            "end": 136.0,
+            "text": " If any of the link of this web page is in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 136.0,
+            "end": 140.0,
+            "text": " You can parse the web page from the search engine"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 140.0,
+            "end": 144.0,
+            "text": " You can also find out that the web page is in English"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 144.0,
+            "end": 148.0,
+            "text": " Here is the header, which is in the metadata, which is title, which is in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " The link of the CSS is in the description"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " Body is in the main content"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 152.0,
+            "end": 156.0,
+            "text": " Body is in the tag to write a tag"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 156.0,
+            "end": 158.0,
+            "text": " I will write in the description box"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 158.0,
+            "end": 162.0,
+            "text": " If I write in the description box, I will write in the description box"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 162.0,
+            "end": 164.0,
+            "text": " If I want to live this video"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 164.0,
+            "end": 166.0,
+            "text": " I will click here"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " Then I will open it"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 168.0,
+            "end": 170.0,
+            "text": " I will show you how my bookmarks are shown"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 170.0,
+            "end": 172.0,
+            "text": " Now, why should I use H1?"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 172.0,
+            "end": 174.0,
+            "text": " I didn't write my bookmark directly"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 174.0,
+            "end": 176.0,
+            "text": " Because I will tell you the browser"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 176.0,
+            "end": 178.0,
+            "text": " This is my first level heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 178.0,
+            "end": 182.0,
+            "text": " Now, I want to write in the main bookmarks"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 182.0,
+            "end": 185.0,
+            "text": " I will use H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 185.0,
+            "end": 187.0,
+            "text": " I will use H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 187.0,
+            "end": 191.0,
+            "text": " If you have used Microsoft Word, you will know what H1H2 is"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 191.0,
+            "end": 193.0,
+            "text": " If you don't know, I will tell you"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 193.0,
+            "end": 195.0,
+            "text": " H1H2 is your main level heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 195.0,
+            "end": 197.0,
+            "text": " And the second level heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " I will use H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 199.0,
+            "end": 201.0,
+            "text": " I will use main bookmarks"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " I will use the second bookmarks"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 203.0,
+            "end": 207.0,
+            "text": " I will use Alt Shift"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " I will use Alt Shift"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 209.0,
+            "end": 211.0,
+            "text": " I will use the screen cast mode"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 211.0,
+            "end": 213.0,
+            "text": " I will use Alt Shift"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 213.0,
+            "end": 215.0,
+            "text": " I will use Alt Shift"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 215.0,
+            "end": 217.0,
+            "text": " This is the shortcut"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 217.0,
+            "end": 219.0,
+            "text": " I will use Alt if you press the shortcut"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 219.0,
+            "end": 223.0,
+            "text": " When you click on Alt, it will be a cursor"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " I will click on Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 225.0,
+            "end": 227.0,
+            "text": " But, you can click Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 227.0,
+            "end": 229.0,
+            "text": " If I click on Alt, I will come back"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " I will come back"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 231.0,
+            "end": 233.0,
+            "text": " I want to do all the books in the code"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 233.0,
+            "end": 235.0,
+            "text": " The bookmarks are in Dash"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 235.0,
+            "end": 237.0,
+            "text": " I will write something"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " I didn't write it"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " I will click on Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " I will click on Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " I will get multiple cut Sources"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 245.0,
+            "end": 247.0,
+            "text": " I will type whatever I want"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 247.0,
+            "end": 251.0,
+            "text": " I will type whatever I want"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 251.0,
+            "end": 253.0,
+            "text": " I will type whatever I want"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 253.0,
+            "end": 255.0,
+            "text": " I will drop some H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " I will update it"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " This is my main heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " This is my H2"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " I have H6"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " I will give you a main heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " Then you will give a second heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 267.0,
+            "end": 269.0,
+            "text": " Then you will give a lot of subheadings"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " And so on"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " You can give a H6 heading"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 273.0,
+            "end": 275.0,
+            "text": " H6 is more than enough"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 275.0,
+            "end": 277.0,
+            "text": " You will have to use H7 in HTML"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 277.0,
+            "end": 279.0,
+            "text": " You will not have to use H7"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " You will not have to use H7"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 281.0,
+            "end": 283.0,
+            "text": " You can use H6"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 283.0,
+            "end": 285.0,
+            "text": " Because this is much smaller"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 285.0,
+            "end": 287.0,
+            "text": " After H6 will be smaller"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " You will have to go smaller"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 289.0,
+            "end": 291.0,
+            "text": " I will type Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 291.0,
+            "end": 293.0,
+            "text": " I will duplicate it"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 293.0,
+            "end": 295.0,
+            "text": " I will click Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " I will type Alt"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 297.0,
+            "end": 299.0,
+            "text": " This is my shortcut"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " I will show you the productivity of this video"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 301.0,
+            "end": 303.0,
+            "text": " I have placed two cut Sources"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 303.0,
+            "end": 321.0,
+            "text": " I will use the backspace"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 321.0,
+            "end": 325.0,
+            "text": " For this nach"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " I will click His find"
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 329.0,
+            "end": 339.0,
+            "text": " You can see the H4, H4, H5, H6, etc."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 339.0,
+            "end": 349.0,
+            "text": " The H6 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 369.0,
+            "end": 379.0,
+            "text": " The H3 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 379.0,
+            "end": 389.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 409.0,
+            "end": 419.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 439.0,
+            "end": 449.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 469.0,
+            "end": 479.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 479.0,
+            "end": 489.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 489.0,
+            "end": 499.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 519.0,
+            "end": 529.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 549.0,
+            "end": 559.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 559.0,
+            "end": 569.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 569.0,
+            "end": 579.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 579.0,
+            "end": 589.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 609.0,
+            "end": 619.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 619.0,
+            "end": 629.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 629.0,
+            "end": 639.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 639.0,
+            "end": 649.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 649.0,
+            "end": 659.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 659.0,
+            "end": 669.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 669.0,
+            "end": 679.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 679.0,
+            "end": 689.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 689.0,
+            "end": 699.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 699.0,
+            "end": 707.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 707.0,
+            "end": 717.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 717.0,
+            "end": 729.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 729.0,
+            "end": 739.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 739.0,
+            "end": 749.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 749.0,
+            "end": 759.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 759.0,
+            "end": 769.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 769.0,
+            "end": 779.0,
+            "text": " The H2 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 779.0,
+            "end": 789.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 789.0,
+            "end": 799.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 799.0,
+            "end": 809.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 829.0,
+            "end": 839.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 839.0,
+            "end": 849.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 849.0,
+            "end": 859.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 859.0,
+            "end": 869.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 869.0,
+            "end": 879.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 879.0,
+            "end": 889.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 889.0,
+            "end": 899.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 899.0,
+            "end": 909.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 909.0,
+            "end": 919.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 919.0,
+            "end": 929.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 929.0,
+            "end": 939.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 939.0,
+            "end": 949.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 949.0,
+            "end": 959.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 959.0,
+            "end": 969.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 969.0,
+            "end": 977.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 977.0,
+            "end": 987.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 987.0,
+            "end": 997.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 997.0,
+            "end": 1007.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1007.0,
+            "end": 1017.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1017.0,
+            "end": 1027.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1027.0,
+            "end": 1037.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1037.0,
+            "end": 1047.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1047.0,
+            "end": 1057.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1057.0,
+            "end": 1067.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1067.0,
+            "end": 1077.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1077.0,
+            "end": 1087.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1087.0,
+            "end": 1097.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1097.0,
+            "end": 1107.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1107.0,
+            "end": 1117.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1117.0,
+            "end": 1127.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1127.0,
+            "end": 1137.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1137.0,
+            "end": 1147.0,
+            "text": " The H4 is more than enough."
+        },
+        {
+            "number": "04",
+            "title": "Heading, Paragraphs and Links",
+            "start": 1147.0,
+            "end": 1151.0,
+            "text": " Thank you for watching this video."
+        }
+    ],
+    "text": " In today's video, I will tell you about the settings and paragraphs I will tell you about the anchor text If you have found this course awesome, then like this video Please like and share this video with your friends In this video, we will make a small project Which will be a bookmark website This bookmark will help you to get all your favorite websites And you will be able to use it in actual use So let's start quickly In the comment section, click the SIGMA BATCH OP Let's roll the intro So guys, as you can see, I have already made my computer screen And if you haven't even done the playlist access yet, then you can access it The other thing I want to tell you guys is that you will go to the GitHub.com slash code And you will get the Github repo of the SIGMA webda course I have made all the other videos of this folder And I have made a lot of other folders of this folder So you will get access from the source code You will get the link in the description And I will put the link in the description Now we will make a very basic website today But it will be very important for us Because it will be our first useful website So I will not take much time to make a new folder in this folder And I will keep the video for this because it is our fourth video So I will make this from the video for the first time I will click on the open with code to open the folder in our VS code After doing this, I will do the same thing that we always do Index.html, Main.css, Style.css and with that, script.js We usually make these three files If I write CSS, I will write here and write script But for now, I will write some things here I will write in the document My bookmarks I will write the code in the description So you will see all the titles I will write here What is H1? You can write it in the web page We have talked about basic structure We have talked about the HTML page HTML is equal to EN The value of the attribute of the language is EN In English, this is the content This is the search engine If any of the link of this web page is in the description You can parse the web page from the search engine You can also find out that the web page is in English Here is the header, which is in the metadata, which is title, which is in the description The link of the CSS is in the description Body is in the main content Body is in the tag to write a tag I will write in the description box If I write in the description box, I will write in the description box If I want to live this video I will click here Then I will open it I will show you how my bookmarks are shown Now, why should I use H1? I didn't write my bookmark directly Because I will tell you the browser This is my first level heading Now, I want to write in the main bookmarks I will use H2 I will use H2 If you have used Microsoft Word, you will know what H1H2 is If you don't know, I will tell you H1H2 is your main level heading And the second level heading I will use H2 I will use main bookmarks I will use the second bookmarks I will use Alt Shift I will use Alt Shift I will use the screen cast mode I will use Alt Shift I will use Alt Shift This is the shortcut I will use Alt if you press the shortcut When you click on Alt, it will be a cursor I will click on Alt But, you can click Alt If I click on Alt, I will come back I will come back I want to do all the books in the code The bookmarks are in Dash I will write something I didn't write it I will click on Alt I will click on Alt I will get multiple cut Sources I will type whatever I want I will type whatever I want I will type whatever I want I will drop some H2 I will update it This is my main heading This is my H2 I have H6 I will give you a main heading Then you will give a second heading Then you will give a lot of subheadings And so on You can give a H6 heading H6 is more than enough You will have to use H7 in HTML You will not have to use H7 You will not have to use H7 You can use H6 Because this is much smaller After H6 will be smaller You will have to go smaller I will type Alt I will duplicate it I will click Alt I will type Alt This is my shortcut I will show you the productivity of this video I have placed two cut Sources I will use the backspace For this nach I will click His find You can see the H4, H4, H5, H6, etc. The H6 is more than enough. The H3 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H2 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. The H4 is more than enough. Thank you for watching this video."
+}

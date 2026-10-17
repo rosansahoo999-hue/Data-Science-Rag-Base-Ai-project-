@@ -1,0 +1,2917 @@
+{
+    "chunks": [
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Today in this video we will talk about core webwitals"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 3.0,
+            "end": 5.0,
+            "text": " and why core webwitals are needed"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 5.0,
+            "end": 8.0,
+            "text": " Keep this video like, share and subscribe"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 8.0,
+            "end": 13.0,
+            "text": " The website of your phone is in the iphone, android phone,"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 13.0,
+            "end": 16.0,
+            "text": " and all the devices in the pro form"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 16.0,
+            "end": 20.0,
+            "text": " Because we have to give good experience to all users"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 20.0,
+            "end": 22.0,
+            "text": " In this video we will also know that"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 22.0,
+            "end": 25.0,
+            "text": " the hidden tool in the chrome is called lighthouse"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " and you can use it to enhance your website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 28.0,
+            "end": 31.0,
+            "text": " So write in the comment section, let's go to the signature batch"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 31.0,
+            "end": 34.0,
+            "text": " and let's roll the intro in the computer screen"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 43.0,
+            "end": 46.0,
+            "text": " So guys, I have already made a new folder"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 46.0,
+            "end": 49.0,
+            "text": " which is called video 6"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 49.0,
+            "end": 51.0,
+            "text": " Video 6"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 51.0,
+            "end": 53.0,
+            "text": " and here is video 6"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 53.0,
+            "end": 54.0,
+            "text": " I will open it in VS"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 54.0,
+            "end": 57.0,
+            "text": " and today I will tell you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 57.0,
+            "end": 60.0,
+            "text": " what is the most important thing in this video"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 60.0,
+            "end": 62.0,
+            "text": " First of all, I will tell you what is SEO"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 62.0,
+            "end": 65.0,
+            "text": " You can see some websites in search engine optimization"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 65.0,
+            "end": 67.0,
+            "text": " and you can see some websites in search engine"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 67.0,
+            "end": 69.0,
+            "text": " Amazon.inq"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 69.0,
+            "end": 71.0,
+            "text": " I will open Amazon.inq"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 71.0,
+            "end": 73.0,
+            "text": " and then the website will load"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 73.0,
+            "end": 76.0,
+            "text": " so that the products in search can be found"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " Google is a good user's responsibility"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 79.0,
+            "end": 81.0,
+            "text": " to show good users"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 81.0,
+            "end": 83.0,
+            "text": " So Google will only show good users"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 83.0,
+            "end": 86.0,
+            "text": " and they will show good information"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 86.0,
+            "end": 89.0,
+            "text": " and with that they will show good users"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 89.0,
+            "end": 92.0,
+            "text": " for example, there are 2 pages from the side"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 92.0,
+            "end": 95.0,
+            "text": " One page has been told about the dog food"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 95.0,
+            "end": 98.0,
+            "text": " The other page has been told about the dog food"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 98.0,
+            "end": 100.0,
+            "text": " But the page 2 is very low"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 100.0,
+            "end": 103.0,
+            "text": " and if it is very low, Google will give it more preference"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 103.0,
+            "end": 105.0,
+            "text": " With that, there are a lot of vital items"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 105.0,
+            "end": 108.0,
+            "text": " which Google considers to rank 2 pages"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 108.0,
+            "end": 110.0,
+            "text": " First of all, content is the most important thing"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 110.0,
+            "end": 115.0,
+            "text": " If you have content on the page, you can also rank it without any core web titles"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 115.0,
+            "end": 119.0,
+            "text": " But if you are competing with a same content"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 119.0,
+            "end": 123.0,
+            "text": " with similar quality content, then your core web titles"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " will be seen"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " and if your core web is true, then you will be given preference"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 128.0,
+            "end": 131.0,
+            "text": " So your core web titles are the first of the CLS"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 131.0,
+            "end": 133.0,
+            "text": " You can see this video here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 133.0,
+            "end": 135.0,
+            "text": " which I have run from web.dev website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 135.0,
+            "end": 137.0,
+            "text": " You can see that there is a website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 137.0,
+            "end": 140.0,
+            "text": " and the order of canceling the cancel is visible"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 140.0,
+            "end": 143.0,
+            "text": " and the order of canceling the cancel is visible"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 143.0,
+            "end": 146.0,
+            "text": " and the layout is shifted"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " and the order is complete"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 148.0,
+            "end": 150.0,
+            "text": " but the user doesn't want to be complete"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 150.0,
+            "end": 152.0,
+            "text": " So the user experience is much worse"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 152.0,
+            "end": 155.0,
+            "text": " and as you have seen in this video, you should not be less"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 155.0,
+            "end": 156.0,
+            "text": " So the CLS is less"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 156.0,
+            "end": 158.0,
+            "text": " Now, what is the cumulative layout shift?"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 158.0,
+            "end": 160.0,
+            "text": " The age of load is so much"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 160.0,
+            "end": 163.0,
+            "text": " You can see how much people are shifting"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 163.0,
+            "end": 166.0,
+            "text": " This was the first step and after that, when this load was a key term part"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " then this shift is all inside"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 168.0,
+            "end": 172.0,
+            "text": " If you are not shifting the layout, if you are in images, then you will not shift the layout"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 172.0,
+            "end": 175.0,
+            "text": " The next metric that we are talking about is the LCP"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 175.0,
+            "end": 177.0,
+            "text": " and LCP stands for largest contextual paint"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 177.0,
+            "end": 181.0,
+            "text": " This means that if a user is viewing a page, then the biggest element"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 181.0,
+            "end": 185.0,
+            "text": " For example, the biggest part of this image is so low in the dark"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 185.0,
+            "end": 186.0,
+            "text": " Otherwise the whole page will be low"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 186.0,
+            "end": 190.0,
+            "text": " but the biggest element is the most important thing"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 190.0,
+            "end": 193.0,
+            "text": " The web.dev and Google's management should be good"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 193.0,
+            "end": 196.0,
+            "text": " LCP is good, 2.5 seconds should be heard"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 196.0,
+            "end": 199.0,
+            "text": " 2.5 seconds should be the biggest element of the load"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 199.0,
+            "end": 201.0,
+            "text": " Then the third metric is FID"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " which stands for first input delay"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 203.0,
+            "end": 208.0,
+            "text": " First input delay means that if any user has clicked an input on the button"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 208.0,
+            "end": 211.0,
+            "text": " or any input on the page, then it is an input process"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 211.0,
+            "end": 216.0,
+            "text": " For example, if you have clicked a button, then the button click browser is processed in a long time"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 216.0,
+            "end": 219.0,
+            "text": " and Google and Web.dev's management should start with 100 milliseconds"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 219.0,
+            "end": 222.0,
+            "text": " or less in your input"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 222.0,
+            "end": 225.0,
+            "text": " So these are the three core web vitals that are very important"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 225.0,
+            "end": 228.0,
+            "text": " You will tell us about the core web vitals that are updated"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 228.0,
+            "end": 231.0,
+            "text": " but these three are very important and you should know"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 231.0,
+            "end": 235.0,
+            "text": " Now I will show you what the light is, what is the reason for it to generate"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 235.0,
+            "end": 238.0,
+            "text": " and how the three core web vitals will get value from the case"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 238.0,
+            "end": 239.0,
+            "text": " So I will tell you here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 239.0,
+            "end": 242.0,
+            "text": " If you will inspect the right click"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 242.0,
+            "end": 244.0,
+            "text": " and you can see the right-side of the click"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 244.0,
+            "end": 247.0,
+            "text": " and you can click on it and you can get it from the other side"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 247.0,
+            "end": 250.0,
+            "text": " and you can click on it and you can click on it and you can click on it"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 250.0,
+            "end": 253.0,
+            "text": " I prefer it to see it from my previous starting point"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 253.0,
+            "end": 256.0,
+            "text": " Now you can see the light is also available to you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 256.0,
+            "end": 258.0,
+            "text": " The light is basically generated by a report"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 258.0,
+            "end": 262.0,
+            "text": " and you can tell us what is the improvement in your HTML page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 262.0,
+            "end": 265.0,
+            "text": " For example, if I want to see in the mobile"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 265.0,
+            "end": 268.0,
+            "text": " how my mobile users are looking at my website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 268.0,
+            "end": 270.0,
+            "text": " then I will also take mobile"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " I will take desktop, I will take this step"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 272.0,
+            "end": 275.0,
+            "text": " I will take mobile and then click on the analyze page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 275.0,
+            "end": 277.0,
+            "text": " then I will generate a report for the light house"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 277.0,
+            "end": 279.0,
+            "text": " You can see that the report is generated"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 279.0,
+            "end": 283.0,
+            "text": " Performance, accessibility, best practices, SE and PW"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 283.0,
+            "end": 287.0,
+            "text": " Now you can see that there is something in the red"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " that is, scope of improvement is in the page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 289.0,
+            "end": 292.0,
+            "text": " Now you can see that you can easily size it"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 292.0,
+            "end": 295.0,
+            "text": " You can load it from 2.7 seconds to the fast up"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " So all the suggestions that you have given"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 297.0,
+            "end": 298.0,
+            "text": " are given to you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " And if you have given the light house"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " and if you have given the suggestions"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 302.0,
+            "end": 304.0,
+            "text": " then your website is very big"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 304.0,
+            "end": 306.0,
+            "text": " and the user has given a good experience"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 306.0,
+            "end": 309.0,
+            "text": " Now you can see that the image elements do not have explicit width and height"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 309.0,
+            "end": 312.0,
+            "text": " So you should give the height of the image"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " which is the width and height attribute"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " which we have read in the previous video"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 316.0,
+            "end": 319.0,
+            "text": " so that you can reserve it in your browser"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " When we set the width and height in the HTML"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " then it is reserved in the space browser"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " Otherwise, if we don't set the height and width"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " then what will happen is that the browser will not know how much space"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 327.0,
+            "end": 328.0,
+            "text": " we need to reserve it"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " and as soon as the CSS load is loaded"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 330.0,
+            "end": 332.0,
+            "text": " we will shift all the pages from one to the other"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 332.0,
+            "end": 335.0,
+            "text": " So we don't want our page loading time shift"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 335.0,
+            "end": 336.0,
+            "text": " If our shift is started"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 336.0,
+            "end": 338.0,
+            "text": " then if we want to click here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 338.0,
+            "end": 340.0,
+            "text": " then whenever the shift is down"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 340.0,
+            "end": 342.0,
+            "text": " then we can click here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " We will sit here, we will go to the image"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 344.0,
+            "end": 345.0,
+            "text": " I will click here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 345.0,
+            "end": 346.0,
+            "text": " And as I have clicked on the image"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 346.0,
+            "end": 348.0,
+            "text": " and at the same time this image is loaded"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 348.0,
+            "end": 350.0,
+            "text": " and all the images are shifted"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 350.0,
+            "end": 351.0,
+            "text": " and instead of clicking here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 351.0,
+            "end": 352.0,
+            "text": " I will click on the image"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 352.0,
+            "end": 354.0,
+            "text": " This is called cumulative layout shift"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 355.0,
+            "end": 358.0,
+            "text": " So this way the shift does not prefer"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 358.0,
+            "end": 359.0,
+            "text": " it does not prefer"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 359.0,
+            "end": 360.0,
+            "text": " Google and this is less"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 360.0,
+            "end": 362.0,
+            "text": " You can see that the space is less"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 362.0,
+            "end": 363.0,
+            "text": " and cumulative layout shift"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " So cumulative layout shift is less"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " so that our user can get a good experience"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 367.0,
+            "end": 369.0,
+            "text": " So here we get more and more suggestions"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 369.0,
+            "end": 371.0,
+            "text": " and this is for our mobile"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 371.0,
+            "end": 373.0,
+            "text": " We can generate desktop reports"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 373.0,
+            "end": 374.0,
+            "text": " and the desktop report will be generated"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 374.0,
+            "end": 375.0,
+            "text": " So as you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " this has generated a report"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 377.0,
+            "end": 379.0,
+            "text": " in performance 92 marks"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 379.0,
+            "end": 380.0,
+            "text": " from accessibility to 100"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 380.0,
+            "end": 381.0,
+            "text": " from 82"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 381.0,
+            "end": 382.0,
+            "text": " and in best practices"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 382.0,
+            "end": 383.0,
+            "text": " 75 SCM 75"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 383.0,
+            "end": 384.0,
+            "text": " And here you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 384.0,
+            "end": 385.0,
+            "text": " that whatever is good"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 385.0,
+            "end": 386.0,
+            "text": " we will tell you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 386.0,
+            "end": 387.0,
+            "text": " and whatever scope of improvement"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 387.0,
+            "end": 388.0,
+            "text": " will be provided with lighthouse"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " So this is a hidden tool"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 390.0,
+            "end": 392.0,
+            "text": " which we should use to use"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 392.0,
+            "end": 393.0,
+            "text": " Now I want to tell you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " about the meta-tax of meta-description"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 395.0,
+            "end": 396.0,
+            "text": " So I will do a new file"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 396.0,
+            "end": 397.0,
+            "text": " and I will name it"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 397.0,
+            "end": 398.0,
+            "text": " index.stml"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 398.0,
+            "end": 400.0,
+            "text": " and after making one-stml"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 400.0,
+            "end": 401.0,
+            "text": " first of all"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 401.0,
+            "end": 403.0,
+            "text": " I want to tell you about the title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 403.0,
+            "end": 404.0,
+            "text": " Your title is"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 404.0,
+            "end": 406.0,
+            "text": " your content is reflecting"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 406.0,
+            "end": 407.0,
+            "text": " on your page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " so this is a good SEO practice"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 409.0,
+            "end": 410.0,
+            "text": " When you are changing your page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 410.0,
+            "end": 411.0,
+            "text": " you should make the title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 411.0,
+            "end": 412.0,
+            "text": " to reflect on your page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 412.0,
+            "end": 414.0,
+            "text": " because if you want to"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 414.0,
+            "end": 415.0,
+            "text": " Google your website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 415.0,
+            "end": 416.0,
+            "text": " then it will be"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 416.0,
+            "end": 417.0,
+            "text": " the title you will be able to"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 417.0,
+            "end": 418.0,
+            "text": " write your code"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 418.0,
+            "end": 420.0,
+            "text": " in index.stml"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 420.0,
+            "end": 422.0,
+            "text": " and you will write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 422.0,
+            "end": 423.0,
+            "text": " this title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 423.0,
+            "end": 425.0,
+            "text": " and this title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 425.0,
+            "end": 426.0,
+            "text": " which is put in the YouTube"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 426.0,
+            "end": 427.0,
+            "text": " and this title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 427.0,
+            "end": 428.0,
+            "text": " which is put in Instagram"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 428.0,
+            "end": 429.0,
+            "text": " and this title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 429.0,
+            "end": 430.0,
+            "text": " which is put in the GitHub"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " so if it is put in the title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 432.0,
+            "end": 433.0,
+            "text": " and in the title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 433.0,
+            "end": 434.0,
+            "text": " which reflect"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 434.0,
+            "end": 435.0,
+            "text": " the content of your page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 435.0,
+            "end": 436.0,
+            "text": " then your website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 436.0,
+            "end": 437.0,
+            "text": " will be very good"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 437.0,
+            "end": 438.0,
+            "text": " to reflect on your page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 438.0,
+            "end": 439.0,
+            "text": " then your website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 439.0,
+            "end": 440.0,
+            "text": " will be very good to rank"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 440.0,
+            "end": 441.0,
+            "text": " Now I will add content"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 441.0,
+            "end": 442.0,
+            "text": " and I will add an"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 442.0,
+            "end": 443.0,
+            "text": " H1"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 443.0,
+            "end": 444.0,
+            "text": " and here I will write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 444.0,
+            "end": 445.0,
+            "text": " Harry"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 445.0,
+            "end": 446.0,
+            "text": " and after that"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 446.0,
+            "end": 448.0,
+            "text": " I will add a paragraph"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 448.0,
+            "end": 449.0,
+            "text": " and here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 449.0,
+            "end": 450.0,
+            "text": " I will write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 450.0,
+            "end": 451.0,
+            "text": " Lorem45"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 451.0,
+            "end": 452.0,
+            "text": " Now I have written"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 452.0,
+            "end": 453.0,
+            "text": " Lorem45"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 453.0,
+            "end": 454.0,
+            "text": " I will unwrap the view"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 454.0,
+            "end": 456.0,
+            "text": " 45 is a very good question"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 456.0,
+            "end": 457.0,
+            "text": " 45 is the reason"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 457.0,
+            "end": 458.0,
+            "text": " that I will write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 458.0,
+            "end": 459.0,
+            "text": " Alc and 4 or 5"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 459.0,
+            "end": 460.0,
+            "text": " so 4 or 5"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 460.0,
+            "end": 461.0,
+            "text": " I have written 23"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 461.0,
+            "end": 462.0,
+            "text": " because they are"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 462.0,
+            "end": 463.0,
+            "text": " still there"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 463.0,
+            "end": 464.0,
+            "text": " so there is no more reason"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 464.0,
+            "end": 465.0,
+            "text": " Now I will review it"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 466.0,
+            "end": 467.0,
+            "text": " I will do an opening browser here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 467.0,
+            "end": 468.0,
+            "text": " and see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 468.0,
+            "end": 469.0,
+            "text": " you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 469.0,
+            "end": 470.0,
+            "text": " I have written this document"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 470.0,
+            "end": 471.0,
+            "text": " if I leave it like this"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 471.0,
+            "end": 472.0,
+            "text": " then it won't be a good practice"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 472.0,
+            "end": 474.0,
+            "text": " I will write about Harry"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 474.0,
+            "end": 475.0,
+            "text": " and I will write it in the code"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 475.0,
+            "end": 476.0,
+            "text": " as well as my website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 476.0,
+            "end": 478.0,
+            "text": " and what will be done"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 478.0,
+            "end": 479.0,
+            "text": " is that the title"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 479.0,
+            "end": 480.0,
+            "text": " will reflect on my page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 480.0,
+            "end": 481.0,
+            "text": " as you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 481.0,
+            "end": 483.0,
+            "text": " so this way"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 483.0,
+            "end": 484.0,
+            "text": " what will be done"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 484.0,
+            "end": 485.0,
+            "text": " in my website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 485.0,
+            "end": 486.0,
+            "text": " in google"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 486.0,
+            "end": 487.0,
+            "text": " we will see the chances of getting the chances"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 487.0,
+            "end": 488.0,
+            "text": " I will inspect"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 488.0,
+            "end": 490.0,
+            "text": " and I will not remove the light of the report"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 490.0,
+            "end": 492.0,
+            "text": " and see what scope of improvements are"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 492.0,
+            "end": 493.0,
+            "text": " Now, the light of the report"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 493.0,
+            "end": 494.0,
+            "text": " which will be very good"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 494.0,
+            "end": 495.0,
+            "text": " and I will not do anything"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 495.0,
+            "end": 496.0,
+            "text": " which I should improve"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 496.0,
+            "end": 497.0,
+            "text": " but when I will add the images"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 497.0,
+            "end": 498.0,
+            "text": " then I will write the suggestions"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 498.0,
+            "end": 499.0,
+            "text": " like"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 499.0,
+            "end": 500.0,
+            "text": " give it a bit of width"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 500.0,
+            "end": 501.0,
+            "text": " and height"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 501.0,
+            "end": 502.0,
+            "text": " with that"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 502.0,
+            "end": 503.0,
+            "text": " I will tell you another trick"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 503.0,
+            "end": 504.0,
+            "text": " which you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 504.0,
+            "end": 505.0,
+            "text": " in any mobile"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 505.0,
+            "end": 506.0,
+            "text": " how your website looks"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 506.0,
+            "end": 507.0,
+            "text": " or you will be able to find out"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 507.0,
+            "end": 508.0,
+            "text": " so you will take"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 508.0,
+            "end": 509.0,
+            "text": " here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 509.0,
+            "end": 510.0,
+            "text": " you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 510.0,
+            "end": 511.0,
+            "text": " you will take a computer here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 511.0,
+            "end": 512.0,
+            "text": " and after that"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 512.0,
+            "end": 513.0,
+            "text": " if you choose a responsive"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 513.0,
+            "end": 514.0,
+            "text": " then you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 514.0,
+            "end": 515.0,
+            "text": " how your website looks"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 515.0,
+            "end": 516.0,
+            "text": " in any way"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 516.0,
+            "end": 517.0,
+            "text": " in your device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 517.0,
+            "end": 518.0,
+            "text": " you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 518.0,
+            "end": 519.0,
+            "text": " your website is responsive"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 519.0,
+            "end": 520.0,
+            "text": " or you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 520.0,
+            "end": 521.0,
+            "text": " from here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 521.0,
+            "end": 522.0,
+            "text": " and you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 522.0,
+            "end": 523.0,
+            "text": " in a specific device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 523.0,
+            "end": 524.0,
+            "text": " that is iPhone 12 Pro"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 524.0,
+            "end": 525.0,
+            "text": " your website is"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 525.0,
+            "end": 526.0,
+            "text": " iPhone 12 Pro"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 526.0,
+            "end": 527.0,
+            "text": " which will be able to see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 527.0,
+            "end": 528.0,
+            "text": " in any way"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 528.0,
+            "end": 529.0,
+            "text": " now, don't say"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 529.0,
+            "end": 530.0,
+            "text": " why it is not"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 530.0,
+            "end": 531.0,
+            "text": " 16, why not 16, why not"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 531.0,
+            "end": 532.0,
+            "text": " 12 Pro means"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 532.0,
+            "end": 533.0,
+            "text": " big iPhone device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 533.0,
+            "end": 534.0,
+            "text": " understand"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 534.0,
+            "end": 535.0,
+            "text": " it is good"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 535.0,
+            "end": 536.0,
+            "text": " in such a big device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 536.0,
+            "end": 537.0,
+            "text": " in such a big device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 537.0,
+            "end": 538.0,
+            "text": " how will you see your website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 538.0,
+            "end": 539.0,
+            "text": " this is"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 539.0,
+            "end": 540.0,
+            "text": " simply told by you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 540.0,
+            "end": 541.0,
+            "text": " so now"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 541.0,
+            "end": 542.0,
+            "text": " you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 542.0,
+            "end": 543.0,
+            "text": " how will you see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 543.0,
+            "end": 544.0,
+            "text": " in Surface Pro 7"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 544.0,
+            "end": 545.0,
+            "text": " here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 545.0,
+            "end": 546.0,
+            "text": " and click"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 546.0,
+            "end": 547.0,
+            "text": " in Google phones"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 547.0,
+            "end": 548.0,
+            "text": " you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 548.0,
+            "end": 549.0,
+            "text": " this is also"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 549.0,
+            "end": 550.0,
+            "text": " and you want"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 550.0,
+            "end": 552.0,
+            "text": " to take a general view"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 552.0,
+            "end": 554.0,
+            "text": " in my website"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 554.0,
+            "end": 555.0,
+            "text": " in any way"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 555.0,
+            "end": 556.0,
+            "text": " in the device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 556.0,
+            "end": 557.0,
+            "text": " in the iPad"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 557.0,
+            "end": 558.0,
+            "text": " how will you see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 558.0,
+            "end": 559.0,
+            "text": " if you are not"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 559.0,
+            "end": 560.0,
+            "text": " here, you choose"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 560.0,
+            "end": 561.0,
+            "text": " your device"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 561.0,
+            "end": 562.0,
+            "text": " and take the approximate"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 562.0,
+            "end": 563.0,
+            "text": " look"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 563.0,
+            "end": 565.0,
+            "text": " in all the different different devices"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 565.0,
+            "end": 566.0,
+            "text": " how will you see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 566.0,
+            "end": 567.0,
+            "text": " and you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 567.0,
+            "end": 568.0,
+            "text": " in this course"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 568.0,
+            "end": 569.0,
+            "text": " now, you click"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 569.0,
+            "end": 570.0,
+            "text": " here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 570.0,
+            "end": 571.0,
+            "text": " and you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 571.0,
+            "end": 572.0,
+            "text": " this"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 572.0,
+            "end": 573.0,
+            "text": " and you will see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 573.0,
+            "end": 574.0,
+            "text": " how"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 574.0,
+            "end": 575.0,
+            "text": " I will close"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 575.0,
+            "end": 576.0,
+            "text": " I will come back"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 576.0,
+            "end": 577.0,
+            "text": " now, I will tell you"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 577.0,
+            "end": 578.0,
+            "text": " about the matter"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 578.0,
+            "end": 580.0,
+            "text": " here, I will write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 580.0,
+            "end": 581.0,
+            "text": " here, you see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 581.0,
+            "end": 582.0,
+            "text": " the matter"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 582.0,
+            "end": 583.0,
+            "text": " I will write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 583.0,
+            "end": 584.0,
+            "text": " here, I will"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 584.0,
+            "end": 586.0,
+            "text": " write my"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 586.0,
+            "end": 587.0,
+            "text": " page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 587.0,
+            "end": 588.0,
+            "text": " I will say"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 588.0,
+            "end": 589.0,
+            "text": " this is the page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 589.0,
+            "end": 590.0,
+            "text": " this is the page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 590.0,
+            "end": 591.0,
+            "text": " this is the page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 591.0,
+            "end": 592.0,
+            "text": " which contains"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 592.0,
+            "end": 593.0,
+            "text": " the description"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 593.0,
+            "end": 594.0,
+            "text": " about"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 594.0,
+            "end": 595.0,
+            "text": " about"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 595.0,
+            "end": 596.0,
+            "text": " Harry"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " and here"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 598.0,
+            "end": 599.0,
+            "text": " you have to write"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 599.0,
+            "end": 600.0,
+            "text": " all the page content"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 600.0,
+            "end": 602.0,
+            "text": " and what you want"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 602.0,
+            "end": 603.0,
+            "text": " you can see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 603.0,
+            "end": 604.0,
+            "text": " what is"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 604.0,
+            "end": 605.0,
+            "text": " what is"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 605.0,
+            "end": 606.0,
+            "text": " written"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 606.0,
+            "end": 607.0,
+            "text": " you see"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 607.0,
+            "end": 608.0,
+            "text": " this page"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 608.0,
+            "end": 618.0,
+            "text": " If you want to use it as a method, then you can use it as a method."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 618.0,
+            "end": 622.0,
+            "text": " If you don't have it, then you can generate it from your content."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 622.0,
+            "end": 625.0,
+            "text": " So, this is the information of the search engine."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 625.0,
+            "end": 629.0,
+            "text": " But, from our point of view, we should have a two-point view."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 629.0,
+            "end": 632.0,
+            "text": " If we want to write a blog, then we can write a blank page."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 632.0,
+            "end": 635.0,
+            "text": " You can see that I have applied a method as a method."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 635.0,
+            "end": 643.0,
+            "text": " Now, we can see that the meta keyword is not used."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " The meta keyword is not used."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 645.0,
+            "end": 650.0,
+            "text": " The meta keyword is seen in the code, but it is believed that the meta keyword is not used in SEO."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 650.0,
+            "end": 653.0,
+            "text": " People use it as a method."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 653.0,
+            "end": 656.0,
+            "text": " You can write a word in the page and write a word in the keyword."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 656.0,
+            "end": 659.0,
+            "text": " The keyword will be the rank of the keyword."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 659.0,
+            "end": 663.0,
+            "text": " If I apply meta keyword, then the search engine will be considered as a substitute."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 663.0,
+            "end": 666.0,
+            "text": " Some search engines say that the meta keyword is not used."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 666.0,
+            "end": 668.0,
+            "text": " I am not saying that the meta keyword is not used."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 668.0,
+            "end": 670.0,
+            "text": " So, the meta keyword is not used in the first place."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 670.0,
+            "end": 671.0,
+            "text": " But, it is not used now."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 671.0,
+            "end": 673.0,
+            "text": " Now, the content of your page is parsed."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 673.0,
+            "end": 676.0,
+            "text": " And, if you are coming to the same time, then you will be able to understand your content."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 676.0,
+            "end": 678.0,
+            "text": " What is your value of your content?"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 678.0,
+            "end": 679.0,
+            "text": " You will be able to understand it."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 679.0,
+            "end": 680.0,
+            "text": " You will be able to rank it."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 680.0,
+            "end": 683.0,
+            "text": " Now, if you want to know about the core web vital."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 683.0,
+            "end": 688.0,
+            "text": " For example, if I inspect and go to the lighthouse and take out the lighthouse for desktop,"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 688.0,
+            "end": 690.0,
+            "text": " then some core web vital comes."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 690.0,
+            "end": 692.0,
+            "text": " Like, the LCP comes."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 692.0,
+            "end": 694.0,
+            "text": " Then, the FCP comes."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 694.0,
+            "end": 695.0,
+            "text": " The first contextual paint."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 695.0,
+            "end": 697.0,
+            "text": " Now, you can see that everything is 1000000."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 697.0,
+            "end": 700.0,
+            "text": " You can see that there is no more content here."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 700.0,
+            "end": 702.0,
+            "text": " But, you can see that I am doing this."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 702.0,
+            "end": 705.0,
+            "text": " You can see that the pages with the web socket cannot enter back forward."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 705.0,
+            "end": 706.0,
+            "text": " The web socket is in the cache."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 706.0,
+            "end": 708.0,
+            "text": " Because we are using the extension."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 708.0,
+            "end": 709.0,
+            "text": " Live preview."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 709.0,
+            "end": 711.0,
+            "text": " Otherwise, this is an accessibility device."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 711.0,
+            "end": 712.0,
+            "text": " Everything is so-so."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 712.0,
+            "end": 713.0,
+            "text": " It is a very large page."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 713.0,
+            "end": 714.0,
+            "text": " Okay."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 714.0,
+            "end": 715.0,
+            "text": " The PWA is a progressive web app."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 715.0,
+            "end": 716.0,
+            "text": " We will not make it."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 716.0,
+            "end": 719.0,
+            "text": " But, you can see that the first contextual paint"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 719.0,
+            "end": 720.0,
+            "text": " is a large contextual paint."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 720.0,
+            "end": 723.0,
+            "text": " Total blocking time, cumulative layout shift, speed index."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 723.0,
+            "end": 725.0,
+            "text": " If you want to know about all these,"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 725.0,
+            "end": 728.0,
+            "text": " then, what is the first contextual paint that the user will see?"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 728.0,
+            "end": 729.0,
+            "text": " It is painted on the browser."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 729.0,
+            "end": 731.0,
+            "text": " So, if you want to see these things,"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 731.0,
+            "end": 734.0,
+            "text": " then you will have to go to the web.dev.dev."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 734.0,
+            "end": 735.0,
+            "text": " It is a very good website."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 735.0,
+            "end": 737.0,
+            "text": " It talks about all these things."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 737.0,
+            "end": 739.0,
+            "text": " And you can see that"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 739.0,
+            "end": 741.0,
+            "text": " you can learn about these things."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 741.0,
+            "end": 743.0,
+            "text": " What is the thing about these things?"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " You can learn about PWA."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 746.0,
+            "end": 748.0,
+            "text": " There is a very good content here."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 748.0,
+            "end": 751.0,
+            "text": " But, we will focus on the HTML CSS JavaScript and Web sites."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 751.0,
+            "end": 754.0,
+            "text": " This is what I wanted to tell you."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 754.0,
+            "end": 757.0,
+            "text": " You guys have not done the web development series yet."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 757.0,
+            "end": 760.0,
+            "text": " If you have not done the web development series yet,"
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 760.0,
+            "end": 762.0,
+            "text": " then you should do it."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 762.0,
+            "end": 764.0,
+            "text": " Do not click on the star or the bookmark."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 764.0,
+            "end": 766.0,
+            "text": " And do it here."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 766.0,
+            "end": 769.0,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 769.0,
+            "end": 771.0,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "06",
+            "title": "SEO and Core Web Vitals in HTML",
+            "start": 775.0,
+            "end": 777.0,
+            "text": " Bye."
+        }
+    ],
+    "text": " Today in this video we will talk about core webwitals and why core webwitals are needed Keep this video like, share and subscribe The website of your phone is in the iphone, android phone, and all the devices in the pro form Because we have to give good experience to all users In this video we will also know that the hidden tool in the chrome is called lighthouse and you can use it to enhance your website So write in the comment section, let's go to the signature batch and let's roll the intro in the computer screen So guys, I have already made a new folder which is called video 6 Video 6 and here is video 6 I will open it in VS and today I will tell you what is the most important thing in this video First of all, I will tell you what is SEO You can see some websites in search engine optimization and you can see some websites in search engine Amazon.inq I will open Amazon.inq and then the website will load so that the products in search can be found Google is a good user's responsibility to show good users So Google will only show good users and they will show good information and with that they will show good users for example, there are 2 pages from the side One page has been told about the dog food The other page has been told about the dog food But the page 2 is very low and if it is very low, Google will give it more preference With that, there are a lot of vital items which Google considers to rank 2 pages First of all, content is the most important thing If you have content on the page, you can also rank it without any core web titles But if you are competing with a same content with similar quality content, then your core web titles will be seen and if your core web is true, then you will be given preference So your core web titles are the first of the CLS You can see this video here which I have run from web.dev website You can see that there is a website and the order of canceling the cancel is visible and the order of canceling the cancel is visible and the layout is shifted and the order is complete but the user doesn't want to be complete So the user experience is much worse and as you have seen in this video, you should not be less So the CLS is less Now, what is the cumulative layout shift? The age of load is so much You can see how much people are shifting This was the first step and after that, when this load was a key term part then this shift is all inside If you are not shifting the layout, if you are in images, then you will not shift the layout The next metric that we are talking about is the LCP and LCP stands for largest contextual paint This means that if a user is viewing a page, then the biggest element For example, the biggest part of this image is so low in the dark Otherwise the whole page will be low but the biggest element is the most important thing The web.dev and Google's management should be good LCP is good, 2.5 seconds should be heard 2.5 seconds should be the biggest element of the load Then the third metric is FID which stands for first input delay First input delay means that if any user has clicked an input on the button or any input on the page, then it is an input process For example, if you have clicked a button, then the button click browser is processed in a long time and Google and Web.dev's management should start with 100 milliseconds or less in your input So these are the three core web vitals that are very important You will tell us about the core web vitals that are updated but these three are very important and you should know Now I will show you what the light is, what is the reason for it to generate and how the three core web vitals will get value from the case So I will tell you here If you will inspect the right click and you can see the right-side of the click and you can click on it and you can get it from the other side and you can click on it and you can click on it and you can click on it I prefer it to see it from my previous starting point Now you can see the light is also available to you The light is basically generated by a report and you can tell us what is the improvement in your HTML page For example, if I want to see in the mobile how my mobile users are looking at my website then I will also take mobile I will take desktop, I will take this step I will take mobile and then click on the analyze page then I will generate a report for the light house You can see that the report is generated Performance, accessibility, best practices, SE and PW Now you can see that there is something in the red that is, scope of improvement is in the page Now you can see that you can easily size it You can load it from 2.7 seconds to the fast up So all the suggestions that you have given are given to you And if you have given the light house and if you have given the suggestions then your website is very big and the user has given a good experience Now you can see that the image elements do not have explicit width and height So you should give the height of the image which is the width and height attribute which we have read in the previous video so that you can reserve it in your browser When we set the width and height in the HTML then it is reserved in the space browser Otherwise, if we don't set the height and width then what will happen is that the browser will not know how much space we need to reserve it and as soon as the CSS load is loaded we will shift all the pages from one to the other So we don't want our page loading time shift If our shift is started then if we want to click here then whenever the shift is down then we can click here We will sit here, we will go to the image I will click here And as I have clicked on the image and at the same time this image is loaded and all the images are shifted and instead of clicking here I will click on the image This is called cumulative layout shift So this way the shift does not prefer it does not prefer Google and this is less You can see that the space is less and cumulative layout shift So cumulative layout shift is less so that our user can get a good experience So here we get more and more suggestions and this is for our mobile We can generate desktop reports and the desktop report will be generated So as you can see this has generated a report in performance 92 marks from accessibility to 100 from 82 and in best practices 75 SCM 75 And here you can see that whatever is good we will tell you and whatever scope of improvement will be provided with lighthouse So this is a hidden tool which we should use to use Now I want to tell you about the meta-tax of meta-description So I will do a new file and I will name it index.stml and after making one-stml first of all I want to tell you about the title Your title is your content is reflecting on your page so this is a good SEO practice When you are changing your page you should make the title to reflect on your page because if you want to Google your website then it will be the title you will be able to write your code in index.stml and you will write this title and this title which is put in the YouTube and this title which is put in Instagram and this title which is put in the GitHub so if it is put in the title and in the title which reflect the content of your page then your website will be very good to reflect on your page then your website will be very good to rank Now I will add content and I will add an H1 and here I will write Harry and after that I will add a paragraph and here I will write Lorem45 Now I have written Lorem45 I will unwrap the view 45 is a very good question 45 is the reason that I will write Alc and 4 or 5 so 4 or 5 I have written 23 because they are still there so there is no more reason Now I will review it I will do an opening browser here and see you can see I have written this document if I leave it like this then it won't be a good practice I will write about Harry and I will write it in the code as well as my website and what will be done is that the title will reflect on my page as you can see so this way what will be done in my website in google we will see the chances of getting the chances I will inspect and I will not remove the light of the report and see what scope of improvements are Now, the light of the report which will be very good and I will not do anything which I should improve but when I will add the images then I will write the suggestions like give it a bit of width and height with that I will tell you another trick which you will see in any mobile how your website looks or you will be able to find out so you will take here you will see you will take a computer here and after that if you choose a responsive then you can see how your website looks in any way in your device you will see your website is responsive or you can see from here and you will see in a specific device that is iPhone 12 Pro your website is iPhone 12 Pro which will be able to see in any way now, don't say why it is not 16, why not 16, why not 12 Pro means big iPhone device understand it is good in such a big device in such a big device how will you see your website this is simply told by you so now you can see how will you see in Surface Pro 7 here and click in Google phones you can see this is also and you want to take a general view in my website in any way in the device in the iPad how will you see if you are not here, you choose your device and take the approximate look in all the different different devices how will you see and you will see in this course now, you click here and you will see this and you will see how I will close I will come back now, I will tell you about the matter here, I will write here, you see the matter I will write here, I will write my page I will say this is the page this is the page this is the page which contains the description about about Harry and here you have to write all the page content and what you want you can see what is what is written you see this page If you want to use it as a method, then you can use it as a method. If you don't have it, then you can generate it from your content. So, this is the information of the search engine. But, from our point of view, we should have a two-point view. If we want to write a blog, then we can write a blank page. You can see that I have applied a method as a method. Now, we can see that the meta keyword is not used. The meta keyword is not used. The meta keyword is seen in the code, but it is believed that the meta keyword is not used in SEO. People use it as a method. You can write a word in the page and write a word in the keyword. The keyword will be the rank of the keyword. If I apply meta keyword, then the search engine will be considered as a substitute. Some search engines say that the meta keyword is not used. I am not saying that the meta keyword is not used. So, the meta keyword is not used in the first place. But, it is not used now. Now, the content of your page is parsed. And, if you are coming to the same time, then you will be able to understand your content. What is your value of your content? You will be able to understand it. You will be able to rank it. Now, if you want to know about the core web vital. For example, if I inspect and go to the lighthouse and take out the lighthouse for desktop, then some core web vital comes. Like, the LCP comes. Then, the FCP comes. The first contextual paint. Now, you can see that everything is 1000000. You can see that there is no more content here. But, you can see that I am doing this. You can see that the pages with the web socket cannot enter back forward. The web socket is in the cache. Because we are using the extension. Live preview. Otherwise, this is an accessibility device. Everything is so-so. It is a very large page. Okay. The PWA is a progressive web app. We will not make it. But, you can see that the first contextual paint is a large contextual paint. Total blocking time, cumulative layout shift, speed index. If you want to know about all these, then, what is the first contextual paint that the user will see? It is painted on the browser. So, if you want to see these things, then you will have to go to the web.dev.dev. It is a very good website. It talks about all these things. And you can see that you can learn about these things. What is the thing about these things? You can learn about PWA. There is a very good content here. But, we will focus on the HTML CSS JavaScript and Web sites. This is what I wanted to tell you. You guys have not done the web development series yet. If you have not done the web development series yet, then you should do it. Do not click on the star or the bookmark. And do it here. Thank you so much for watching this video. And I will see you next time. Bye."
+}

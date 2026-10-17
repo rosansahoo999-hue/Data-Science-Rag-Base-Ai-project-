@@ -1,0 +1,3 @@
+config.py
+embeddings.joblib
+__pycache__/

@@ -1,0 +1,9 @@
+Hi there! I'd be happy to help you with your question about the web development course.
+
+You're wondering where and how much content is taught about "code" and "pre" tags in the course. After reviewing the video chunks, I found that the "code" and "pre" tags are actually introduced in Video 13, where the instructor explains the purpose of these tags in HTML.
+
+To be more specific, the instructor starts explaining the "code" tag at around 3:32 seconds (since 382.36 seconds is equivalent to 3:32) and talks about how it's used for code blocks. Later, at 3:48 seconds, the instructor also mentions the "pre" tag, which is used for preformatted text.
+
+If you'd like to learn more about these tags, you can watch Video 13, which should give you a good understanding of their usage and purpose in HTML. Just head over to the Sigma web development course, and you'll find Video 13 there.
+
+Let me know if you have any other questions!
